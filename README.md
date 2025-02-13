@@ -1,0 +1,1 @@
+This is package with massege types used in braitenbug project.
